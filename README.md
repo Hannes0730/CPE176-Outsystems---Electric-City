@@ -15,7 +15,7 @@ TODOS:
 - [x] Products Listing Page and Product Listing Method
 - [x] Search Bar Function and Integration
 - [x] Database Setup and Populate Database with Products
-- [ ] Anonymous Browsing
+- [x] Anonymous Browsing
 - [ ] Add, Edit, Remove Items from Cart
 - [ ] Cart Page
 - [ ] Rate Orders
