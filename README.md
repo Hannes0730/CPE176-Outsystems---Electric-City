@@ -18,4 +18,6 @@ TODOS:
 - [x] Anonymous Browsing
 - [x] Add, Edit, Remove Items from Cart
 - [x] Cart Page
+- [x] Payment Page
+- [x] Clear Cart After Payment
 - [ ] Rate Orders
