@@ -16,6 +16,6 @@ TODOS:
 - [x] Search Bar Function and Integration
 - [x] Database Setup and Populate Database with Products
 - [x] Anonymous Browsing
-- [ ] Add, Edit, Remove Items from Cart
-- [ ] Cart Page
+- [x] Add, Edit, Remove Items from Cart
+- [x] Cart Page
 - [ ] Rate Orders
