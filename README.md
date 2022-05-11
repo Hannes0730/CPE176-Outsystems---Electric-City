@@ -20,4 +20,4 @@ TODOS:
 - [x] Cart Page
 - [x] Payment Page
 - [x] Clear Cart After Payment
-- [ ] Rate Orders
+- [x] Rate Orders
